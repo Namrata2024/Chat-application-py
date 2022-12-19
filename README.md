@@ -1,3 +1,3 @@
 # Chat-application-py
-GUI chat application in pyton
+GUI chat application in python
 
